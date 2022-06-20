@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kisstamasj
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning laravel/reactJS
+- 🌱 My tech stack: PHP / Laravel / HTML / JS / Bootstrap / CSS / MySql / NodeJS / ReactJS / NextJS / Kubernetes 
 - 📫 How to reach me: kiss.tamas.j@gmail.com
 
 <!---

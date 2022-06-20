@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kisstamasj
 - 👀 I’m interested in webdevelopment
-- 🌱 My tech stack: PHP | Laravel | HTML | JS | TS | Bootstrap | CSS | MySql | NodeJS | ReactJS | NextJS | Kubernetes 
+- 🌱 My tech stack: PHP | Laravel | HTML | JS | TS | Jest | Bootstrap | CSS | MySql | MongoDB | NodeJS | ReactJS | NextJS | Kubernetes 
 - 👌 My roles: Frontend | Backend | FullStack
 - 📫 How to reach me: kiss.tamas.j@gmail.com
 

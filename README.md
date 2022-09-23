@@ -31,7 +31,9 @@
 - 👌 My roles: Frontend | Backend | FullStack
 - 📫 How to reach me: kiss.tamas.j@gmail.com
 
+<div style="text-align:center">
 <a href="https://app.daily.dev/kisstamas"><img src="https://github.com/kisstamasj/kisstamasj/blob/main/devcard.svg" width="400" alt="Kiss Tamás's Dev Card"/></a>
+</div>
 
 <!---
 kisstamasj/kisstamasj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

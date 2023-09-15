@@ -17,7 +17,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-https://wakatime.com/badge/user/da8cd449-74a6-4a7b-bcbe-d6c973983c4f.svg
+[![wakatime](https://wakatime.com/badge/user/da8cd449-74a6-4a7b-bcbe-d6c973983c4f.svg)](https://wakatime.com/@da8cd449-74a6-4a7b-bcbe-d6c973983c4f)
 
 - 👋 Hi, I’m @kisstamasj
 - 👀 I’m interested in webdevelopment

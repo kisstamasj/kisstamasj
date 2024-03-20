@@ -23,7 +23,7 @@
 - 👀 I’m interested in webdevelopment
 - 🌱 My tech stack: PHP | HTML | JS | TS | CSS | SQL | MongoDB | NodeJS | ReactJS | NextJS | Docker | Kubernetes 
 - 👌 My roles: Frontend | Backend | FullStack
-- 💎 I'm currently deep diving into NextJS
+- 💎 I'm currently deep diving into NextJS and NestJS
 - 📫 How to reach me: kiss.tamas.j@gmail.com
 
 <div align="center">

@@ -19,7 +19,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/da8cd449-74a6-4a7b-bcbe-d6c973983c4f.svg)](https://wakatime.com/@da8cd449-74a6-4a7b-bcbe-d6c973983c4f)
 
-<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/121182271/latest-rides/b633364fa6fc7e0b54d5d30a2c612894ff40412b'></iframe>
+<iframe height="454" width="300" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/athletes/121182271/latest-rides/b633364fa6fc7e0b54d5d30a2c612894ff40412b"></iframe>
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/121182271/activity-summary/b633364fa6fc7e0b54d5d30a2c612894ff40412b'></iframe>
 

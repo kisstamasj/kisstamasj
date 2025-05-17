@@ -32,6 +32,8 @@
 </a>
 
 
+
+
 <div align="center">
 <a href="https://app.daily.dev/kisstamas"><img src="https://github.com/kisstamasj/kisstamasj/blob/main/devcard.png" alt="Kiss Tamás's Dev Card"/></a>
 </div>
